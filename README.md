@@ -1,6 +1,6 @@
-# Optimizing Ad Placement Through Viewer Behavior Analysis on 17LIVE
+# Optimizing Ad Placement Through Viewer Behavior Analysis
 
-This project analyzes live stream data from the 17LIVE a live streaming platform to uncover insights about viewer engagement and determine the best time to display ads for maximum visibility and impact.
+This project analyzes stream data from a live streaming platform to uncover insights about viewer engagement and determine the best time to display ads for maximum visibility and impact.
 
 ## Business Problem:
 17LIVE aims to place ads during live streams to generate revenue and enhance the user experience. To achieve this, the company needs to understand:
@@ -20,7 +20,7 @@ The goal of this project is to analyze viewer behavior during live streams and p
 Python · Exploratory Data Analysis (EDA) · NumPy · Pandas · Matplotlib · Seaborn, Microsoft Excel.
 
 ## Steps included:
-1) Data Collection – Loaded the 17LIVE stream dataset for analysis.
+1) Data Collection – Loaded the stream dataset for analysis.
 2) Data Cleaning – Handled missing values and converted time columns to proper formats.
 3) Data Manipulation – Created new metrics like time_to_peak and peak_percent.
 4) Data Analysis – Explored viewer behavior, peak hours, and OS-based engagement.
